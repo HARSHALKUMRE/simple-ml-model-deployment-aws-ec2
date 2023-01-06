@@ -1,0 +1,1 @@
+## This is a simple ML Model for using the AWS EC2 instance deployemnt practice.
